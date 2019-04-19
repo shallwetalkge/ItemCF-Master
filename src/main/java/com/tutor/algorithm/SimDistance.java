@@ -13,6 +13,7 @@ public class SimDistance {
                 }
             }
             distance=Math.sqrt(distance);
+            System.out.println("教师距离为："+distance);
         }
         return distance;
     }
