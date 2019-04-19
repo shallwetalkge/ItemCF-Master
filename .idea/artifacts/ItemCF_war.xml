@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ItemCF:war">
+    <output-path>$PROJECT_DIR$/../ItemCf/target</output-path>
+    <root id="archive" name="ItemCf.war">
+      <element id="artifact" artifact-name="ItemCF:war exploded" />
+    </root>
+  </artifact>
+</component>
