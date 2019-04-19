@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e90c83bd-1b80-4171-9f3f-40da81a84e9f" name="默认的" comment="" />
+    <list default="true" id="e90c83bd-1b80-4171-9f3f-40da81a84e9f" name="默认的" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ItemCf/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../ItemCf/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/../ItemCF/out/" />
     <ignored path="$PROJECT_DIR$/../ItemCf/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -268,6 +270,39 @@
               <item name="ItemCf" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ItemCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ItemCf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tutor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ItemCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ItemCf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tutor" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ItemCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ItemCf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tutor" type="462c0819:PsiDirectoryNode" />
+              <item name="contorller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ItemCF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ItemCf" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resource" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -507,12 +542,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1555649493319</updated>
-      <workItem from="1555649496761" duration="27877000" />
+      <workItem from="1555649496761" duration="28401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27877000" />
+    <option name="totallyTimeSpent" value="28401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
