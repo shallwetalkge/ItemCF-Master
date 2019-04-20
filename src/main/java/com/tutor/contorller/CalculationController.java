@@ -22,7 +22,7 @@ public class CalculationController  extends Thread {
         Thread thread=new CalculationController();
         while (true){
             thread.start();
-            thread.sleep(3000);
+            thread.sleep(10000);
             return "main";
         }
     }
