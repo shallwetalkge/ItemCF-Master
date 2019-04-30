@@ -34,11 +34,11 @@ public class TeacherGradeDaoImpl extends Base implements TeacherGradeDao {
 
     @Override
     public TeacherGrade getOnlyTeacherGrade(Integer studentId, Integer teacherId) {
-        String hql="from TeacherGrade a where a.studentId=? and a.teacherId=?";
-        Query query=this.currentSession().createQuery(hql);
-        query.setParameter(0,studentId);
-        query.setParameter(1,teacherId);
-        return (TeacherGrade) query.uniqueResult();
+            String hql="from TeacherGrade a where a.studentId=? and a.teacherId=?";
+            Query query=this.currentSession().createQuery(hql);
+            query.setParameter(0,studentId);
+            query.setParameter(1,teacherId);
+            return (TeacherGrade) query.uniqueResult();
     }
 
 }

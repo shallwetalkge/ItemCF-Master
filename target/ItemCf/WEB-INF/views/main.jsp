@@ -19,7 +19,7 @@
 <script>
     setTimeout(function toMain() {
         window.location.href="${cp}/main";
-    }, 30000);
+    }, 1800000);
 
 </script>
 </body>
